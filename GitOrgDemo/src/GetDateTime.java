@@ -14,6 +14,7 @@ public class GetDateTime {
 	      second = date.get(Calendar.SECOND);
 	      minute = date.get(Calendar.MINUTE);
 	      hour = date.get(Calendar.HOUR);
+	      System.out.println("This is git-new workspace");
 
 	      System.out.println("Current date is  "+day+"/"+(month+1)+"/"+year);
 	      System.out.println("Current time is  "+hour+" : "+minute+" : "+second);
