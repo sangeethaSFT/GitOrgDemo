@@ -5,7 +5,7 @@ public class GetDateTime {
 	{
 		int day, month, year;
 	      int second, minute, hour;
-	      System.out.println("This is Haroon");
+	      System.out.println(" This is Haroon");
 	      GregorianCalendar date = new GregorianCalendar();
 	     
 	      day = date.get(Calendar.DAY_OF_MONTH);
