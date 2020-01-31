@@ -5,7 +5,7 @@ public class ReverseString
 	 {
 		 String str = "GitHub Demo"; 
 		 String reversed = reverseString(str);
-		 System.out.println("The reversed string is: " + reversed); 
+		 System.out.println(" #The reversed string is: " + reversed); 
 	 } 
 	 public static String reverseString(String str) 
 	 {
