@@ -4,6 +4,7 @@ public class ReverseString
 	 public static void main(String[] args)
 	 {
 		 String str = "GitHub Demo"; 
+		 System.out.println("This Program will reverse the given string:"+str);
 		 String reversed = reverseString(str);
 		 System.out.println(" #The reversed string is: " + reversed); 
 	 } 
